@@ -43,8 +43,7 @@ ats-cv-generator/
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](/WhatsApp Image 2026-08-22 at 3.59.39 PM.jpeg)
-
+![Architecture Diagram](WhatsApp%20Image%202026-08-22%20at%203.59.39%20PM.jpeg)
 
 
 
